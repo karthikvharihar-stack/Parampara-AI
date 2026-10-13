@@ -2,7 +2,8 @@
 
 A RAG-powered knowledge engine for Guru Parampara — combining a dual-mode writing pad, historical archives, and a grounded AI assistant that never hallucinates Guru names or sacred texts.
 
-**Live:** https://guru-lekhana-seva.onrender.com *(free tier — may take ~30s to load on first visit)*
+- 🌐 **Live Demo:** [https://guru-lekhana-seva.onrender.com](https://guru-lekhana-seva.onrender.com) *(free tier — spins up in ~30s on first load)*
+- 📂 **GitHub Repo:** [https://github.com/karthikvharihar-stack/Parampara-AI](https://github.com/karthikvharihar-stack/Parampara-AI)
 
 ## What it does
 
