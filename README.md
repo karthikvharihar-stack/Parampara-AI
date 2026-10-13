@@ -2,7 +2,7 @@
 
 A RAG-powered knowledge engine for Guru Parampara — combining a dual-mode writing pad, historical archives, and a grounded AI assistant that never hallucinates Guru names or sacred texts.
 
-**Live:** https://guru-lekhana-seva.onrender.com
+**Live:** https://guru-lekhana-seva.onrender.com *(free tier — may take ~30s to load on first visit)*
 
 ## What it does
 
@@ -19,8 +19,8 @@ Python 3.11 · Flask · SQLAlchemy · Google Gemini · ChromaDB · sentence-tran
 ## Run locally
 
 ```bash
-git clone https://github.com/karthikvharihar-stack/Guru-Project.git
-cd Guru-Project
+git clone https://github.com/karthikvharihar-stack/Parampara-AI.git
+cd Parampara-AI
 pip install -r requirements.txt
 cp .env.example .env   # add your GEMINI_API_KEY
 python run.py
